@@ -2,7 +2,7 @@
 <project version="4">
   <component name="DBNavigator.Project.DataEditorManager">
     <record-view-column-sorting-type value="BY_INDEX" />
-    <value-preview-text-wrapping value="true" />
+    <value-preview-text-wrapping value="false" />
     <value-preview-pinned value="false" />
   </component>
   <component name="DBNavigator.Project.DatabaseBrowserManager">
@@ -19,6 +19,9 @@
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files />
   </component>
+  <component name="DBNavigator.Project.DatabaseSessionManager">
+    <connection id="8e69fc99-8ef9-4b99-818b-a2461fdd9b02" />
+  </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
     <filter-actions connection-id="8e69fc99-8ef9-4b99-818b-a2461fdd9b02" dataset="HR.JOBS" active-filter-id="" />
   </component>
@@ -30,6 +33,9 @@
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
     <mapping file-url="file://$PROJECT_DIR$/src/test/resources/day02/myfirstQuery.sql" connection-id="8e69fc99-8ef9-4b99-818b-a2461fdd9b02" session-id="MAIN" current-schema="HR" />
+    <mapping file-url="file://$PROJECT_DIR$/src/test/resources/day03/stringFunctions.sql" connection-id="8e69fc99-8ef9-4b99-818b-a2461fdd9b02" session-id="MAIN" current-schema="HR" />
+    <mapping file-url="file://$PROJECT_DIR$/src/test/resources/day03/review.sql" connection-id="8e69fc99-8ef9-4b99-818b-a2461fdd9b02" session-id="MAIN" current-schema="HR" />
+    <mapping file-url="file://$PROJECT_DIR$/src/test/resources/day03/views.sql" connection-id="8e69fc99-8ef9-4b99-818b-a2461fdd9b02" session-id="MAIN" current-schema="" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
