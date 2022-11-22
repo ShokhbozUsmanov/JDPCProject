@@ -65,7 +65,7 @@ public class DB_Util {
             System.out.println("ERROR OCCURRED WHILE RUNNING QUERY "+ e.getMessage() );
         }
 
-        return rs ;
+        return rs;
 
     }
 

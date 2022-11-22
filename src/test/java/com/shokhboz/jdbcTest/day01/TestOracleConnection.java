@@ -1,4 +1,4 @@
-package com.shokhboz.jdbcTest;
+package com.shokhboz.jdbcTest.day01;
 
 import java.sql.*;
 

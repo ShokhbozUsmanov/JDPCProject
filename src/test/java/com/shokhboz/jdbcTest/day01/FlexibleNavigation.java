@@ -1,4 +1,4 @@
-package com.shokhboz.jdbcTest;
+package com.shokhboz.jdbcTest.day01;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
